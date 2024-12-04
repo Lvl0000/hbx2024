@@ -1,0 +1,5 @@
+Bienvenid@
+<h2>¡Bienvenido a la Guardia Real!</h2><br>
+<img src="https://i.imgur.com/XmCnNXE.png" align="left" style="padding: 10px"/><br>
+El juego <b>La Guardia Real</b> consiste en que, entrarás con un grupo de civiles a causar desorden por el campo de Checoslovaquia. Esto a ellos les va a enfurecer tanto que irán a por ti... Consigue escabullirte de la guardia real y ser el gran ganador.<br><br><br><br><br>
+Por ronda habrán <b>dos ganadores</b>. Es momento de demostrar tus habilidades y burlarte de la guardia real de Checoslovaquia.
