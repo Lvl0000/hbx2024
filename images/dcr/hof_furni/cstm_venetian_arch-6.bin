@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<assets>
+  <asset name="cstm_venetian_arch_64_a_2_0" x="23" y="102"/>
+  <asset name="cstm_venetian_arch_64_a_4_0" flipH="1" source="cstm_venetian_arch_64_a_2_0" x="23" y="102"/>
+  <asset name="cstm_venetian_arch_64_b_2_0" x="-5" y="89"/>
+  <asset name="cstm_venetian_arch_64_b_4_0" flipH="1" source="cstm_venetian_arch_64_b_2_0" x="-5" y="89"/>
+  <asset name="cstm_venetian_arch_icon_a" x="0" y="0"/>
+</assets>

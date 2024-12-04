@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<assets>
+  <asset name="cstm_santorini_flowers_bush_64_a_2_0" x="34" y="38"/>
+  <asset name="cstm_santorini_flowers_bush_64_a_4_0" flipH="1" source="cstm_santorini_flowers_bush_64_a_2_0" x="34" y="38"/>
+  <asset name="cstm_santorini_flowers_bush_64_b_2_0" x="13" y="36"/>
+  <asset name="cstm_santorini_flowers_bush_64_b_4_0" flipH="1" source="cstm_santorini_flowers_bush_64_b_2_0" x="13" y="36"/>
+  <asset name="cstm_santorini_flowers_bush_icon_a" x="0" y="0"/>
+</assets>

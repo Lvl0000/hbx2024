@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<assets>
+  <asset name="cstm_vt19_shelf_64_a_2_0" x="33" y="22"/>
+  <asset name="cstm_vt19_shelf_64_a_4_0" flipH="1" source="cstm_vt19_shelf_64_a_2_0" x="33" y="22"/>
+  <asset name="cstm_vt19_shelf_64_b_2_0" x="32" y="21"/>
+  <asset name="cstm_vt19_shelf_64_b_4_0" flipH="1" source="cstm_vt19_shelf_64_b_2_0" x="32" y="21"/>
+  <asset name="cstm_vt19_shelf_64_c_2_0" x="0" y="5"/>
+  <asset name="cstm_vt19_shelf_64_c_4_0" flipH="1" source="cstm_vt19_shelf_64_c_2_0" x="0" y="5"/>
+  <asset name="cstm_vt19_shelf_64_d_2_0" x="-67" y="-13"/>
+  <asset name="cstm_vt19_shelf_64_d_4_0" flipH="1" source="cstm_vt19_shelf_64_d_2_0" x="-67" y="-13"/>
+  <asset name="cstm_vt19_shelf_64_sd_2_0" x="34" y="17"/>
+  <asset name="cstm_vt19_shelf_64_sd_4_0" flipH="1" source="cstm_vt19_shelf_64_sd_2_0" x="34" y="17"/>
+  <asset name="cstm_vt19_shelf_icon_a" x="0" y="0"/>
+</assets>

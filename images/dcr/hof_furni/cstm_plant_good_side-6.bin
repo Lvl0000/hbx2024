@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<assets>
+  <asset name="cstm_plant_good_side_64_a_2_0" x="11" y="28"/>
+  <asset name="cstm_plant_good_side_64_a_4_0" flipH="1" source="cstm_plant_good_side_64_a_2_0" x="11" y="28"/>
+  <asset name="cstm_plant_good_side_icon_a" x="0" y="0"/>
+</assets>

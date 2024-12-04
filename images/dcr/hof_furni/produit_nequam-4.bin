@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<manifest>
+	<library name="produit_nequam" version="0.1">
+		<assets>
+			<asset name="index" mimeType="text/xml"/>
+			<asset name="produit_nequam_visualization" mimeType="text/xml"/>
+			<asset name="produit_nequam_assets" mimeType="text/xml"/>
+			<asset name="produit_nequam_logic" mimeType="text/xml"/>
+			<asset name="produit_nequam_64_a_2_0" mimeType="image/png"/>
+			<asset name="produit_nequam_icon_a" mimeType="image/png"/>
+		</assets>
+	</library>
+</manifest>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<assets>
+	<asset name="no_vitres_64_a_2_0" x="15" y="170"/>
+	<asset name="no_vitres_64_a_4_0" flipH="1" source="no_vitres_64_a_2_0" x="15" y="170"/>
+	<asset name="no_vitres_64_a_2_1" x="15" y="170"/>
+	<asset name="no_vitres_64_a_4_1" flipH="1" source="no_vitres_64_a_2_1" x="15" y="170"/>
+	<asset name="no_vitres_icon_a" x="17" y="8"/>
+</assets>

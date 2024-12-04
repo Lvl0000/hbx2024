@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<assets>
+  <asset name="cstm_used_shelf_64_a_2_0" x="63" y="18"/>
+  <asset name="cstm_used_shelf_64_a_4_0" flipH="1" source="cstm_used_shelf_64_a_2_0" x="63" y="18"/>
+  <asset name="cstm_used_shelf_icon_a" x="0" y="0"/>
+</assets>

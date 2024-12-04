@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<assets>
+  <asset name="cstm_storage_shelf_64_a_2_0" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_0" flipH="1" source="cstm_storage_shelf_64_a_2_0" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_1" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_1" flipH="1" source="cstm_storage_shelf_64_a_2_1" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_2" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_64_a_4_2" flipH="1" source="cstm_storage_shelf_64_a_2_2" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_64_a_2_3" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_3" flipH="1" source="cstm_storage_shelf_64_a_2_3" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_4" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_4" flipH="1" source="cstm_storage_shelf_64_a_2_4" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_5" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_64_a_4_5" flipH="1" source="cstm_storage_shelf_64_a_2_5" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_64_a_2_6" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_6" flipH="1" source="cstm_storage_shelf_64_a_2_6" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_7" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_7" flipH="1" source="cstm_storage_shelf_64_a_2_7" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_8" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_64_a_4_8" flipH="1" source="cstm_storage_shelf_64_a_2_8" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_64_a_2_9" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_9" flipH="1" source="cstm_storage_shelf_64_a_2_9" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_10" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_4_10" flipH="1" source="cstm_storage_shelf_64_a_2_10" x="38" y="35"/>
+  <asset name="cstm_storage_shelf_64_a_2_11" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_64_a_4_11" flipH="1" source="cstm_storage_shelf_64_a_2_11" x="38" y="28"/>
+  <asset name="cstm_storage_shelf_icon_a" x="0" y="0"/>
+</assets>
